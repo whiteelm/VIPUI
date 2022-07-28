@@ -1,0 +1,27 @@
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\bin\Debug\BSC4ddUI.exe
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\bin\Debug\BSC4ddUI.pdb
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.AssemblyReference.cache
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\obj\Debug\BSC4ddUI.Form1.resources
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\obj\Debug\BSC4ddUI.Properties.Resources.resources
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\obj\Debug\BSC4ddUI.exe
+C:\Users\Кежик\Desktop\VIP2UI\VIP2UI\obj\Debug\BSC4ddUI.pdb
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\bin\Debug\BSC4ddUI.exe
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\bin\Debug\BSC4ddUI.pdb
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.AssemblyReference.cache
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\BSC4ddUI.Form1.resources
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\BSC4ddUI.Properties.Resources.resources
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\BSC4ddUI.exe
+C:\Users\Кежик\Desktop\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\BSC4ddUI.pdb
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\bin\Debug\VIP.exe
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\bin\Debug\VIP.pdb
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.AssemblyReference.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP.Properties.Resources.resources
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP2UI.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP.exe
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP.pdb
+C:\Users\Кежик\Desktop\Учеба\ГПО\Линии\связанные\VIP2 programms\VIP2UI\VIP2UI\obj\Debug\VIP.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\bin\Release\BSC4ddUI.exe
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\bin\Release\BSC4ddUI.pdb
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\obj\Release\BSC4ddUI.csproj.AssemblyReference.cache
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\obj\Release\BSC4ddUI.Form1.resources
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\obj\Release\BSC4ddUI.Properties.Resources.resources
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\obj\Release\BSC4ddUI.csproj.GenerateResource.cache
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\obj\Release\BSC4ddUI.csproj.CoreCompileInputs.cache
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\obj\Release\BSC4ddUI.exe
+C:\Users\Кежик\Desktop\BSC4ddUI\BSC4ddUI\obj\Release\BSC4ddUI.pdb
